@@ -1,2 +1,2 @@
 # ENTRY-PYTHON-DARSLARI-
-Entry (EPL) da mantli kodlash
+Entry (EPL) da dasturlash
